@@ -5,4 +5,10 @@ RE: working from Eclipse
 
 re: githup is not working
 
+<<<<<<< HEAD
 RE: 2020-04-20 COMMIT LSK
+=======
+RE: 2020-04-20 COMMIT FROM ECLIPSE
+
+RE: 2020-04-20 COMMIT FROM GIT
+>>>>>>> branch 'master' of https://github.com/kooglee/repository2.git
