@@ -6,16 +6,13 @@ public class GitShareCenter {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		//2020-04-20 ¿Ãº∫±π √ﬂ∞° 2
-		System.out.println("æﬂ»£");
-		
-		//º∫±π
+		//ÏÑ±Íµ≠
 		CommInterface commIf = new SkWork();
 		commIf.doWork();
 		
-		//º≠ø¨
+		//ÏÑúÏó∞
 		
-		//¡ÿøµ
+		//Ï§ÄÏòÅ
 		
 	}
 

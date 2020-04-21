@@ -7,7 +7,7 @@ public class SkWork implements CommInterface {
 	@Override
 	public void doWork() {
 		// TODO Auto-generated method stub
-		System.out.println("¼º±¹ÀÌ´Â ÀÏÇÑ´Ù.");
+		System.out.println("ì„±êµ­ì´ëŠ” ì¼í•œë‹¤");
 	}
 
 }
